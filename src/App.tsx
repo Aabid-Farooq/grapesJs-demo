@@ -50,7 +50,6 @@ const gjsOptions: EditorConfig = {
         id: PRODUCT_CARDS.id,
         label: PRODUCT_CARDS.label,
         media: PRODUCT_CARDS.media,
-        // You can pass components as a JSON instead of a simple HTML string,
         content: PRODUCT_CARDS.content,
         category: PRODUCT_CARDS.category,
       },
